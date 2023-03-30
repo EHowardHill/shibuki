@@ -1,5 +1,7 @@
 # Shibuki
 
+![Screenshot](https://github.com/EHowardHill/shibuki/blob/main/info/demo.png?raw=true)
+
 ## About
 
 Shibuki is a dynamic proxy and load balancer for a network mesh - sort of like Kubernetes, but without the docker containers. The idea is for it to be used on a central server, on the same network as a large collection of smaller devices, each with a web API installed. Shibuki enables you to dynamically access these devices as if they were accessible on a single IP address.
